@@ -1,0 +1,3 @@
+include ':onelessdivider'
+include ':app'
+rootProject.name = "OneLessDividerDecorationExample"
